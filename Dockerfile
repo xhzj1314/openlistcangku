@@ -5,4 +5,4 @@ FROM openlistteam/openlist:beta
 EXPOSE 5244
 
 # 启动服务
-CMD ["./openlist", "--port", "5244"]
+CMD ["./openlist"]
